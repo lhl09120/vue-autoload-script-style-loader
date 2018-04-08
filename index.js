@@ -1,7 +1,7 @@
 var fs = require('fs');
 
 function getFilePathByRequest(request) {
-  return request.split('vue-auto-loader/index.js!')[1];
+  return request.split('vue-autoload-tag-loader/index.js!')[1];
 }
 
 function getFileNameByPath(path) {
