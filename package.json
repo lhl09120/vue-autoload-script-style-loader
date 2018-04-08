@@ -1,5 +1,5 @@
 {
-  "name": "vue-autoload-script-style-loader",
+  "name": "vue-autoLoadTag-loader",
   "version": "0.1.2",
   "description": "a loader to auto load script tag and style tag in .vue file",
   "main": "index.js",
