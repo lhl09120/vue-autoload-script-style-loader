@@ -1,0 +1,19 @@
+{
+  "name": "vue-autoload-script-style-loader",
+  "version": "0.1.2",
+  "description": "a loader to auto load script tag and style tag in .vue file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "lhl09120",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lhl09120/vue-autoload-script-style-loader.git"
+  },
+  "homepage": "https://github.com/lhl09120/vue-autoload-script-style-loader"
+}
